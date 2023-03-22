@@ -1,0 +1,17 @@
+C:\Users\oktay\Desktop\bilimselHesapMakinesi\bilimselHesapMakinesi\bin\Debug\net6.0-windows\bilimselHesapMakinesi.exe
+C:\Users\oktay\Desktop\bilimselHesapMakinesi\bilimselHesapMakinesi\bin\Debug\net6.0-windows\bilimselHesapMakinesi.deps.json
+C:\Users\oktay\Desktop\bilimselHesapMakinesi\bilimselHesapMakinesi\bin\Debug\net6.0-windows\bilimselHesapMakinesi.runtimeconfig.json
+C:\Users\oktay\Desktop\bilimselHesapMakinesi\bilimselHesapMakinesi\bin\Debug\net6.0-windows\bilimselHesapMakinesi.dll
+C:\Users\oktay\Desktop\bilimselHesapMakinesi\bilimselHesapMakinesi\bin\Debug\net6.0-windows\bilimselHesapMakinesi.pdb
+C:\Users\oktay\Desktop\bilimselHesapMakinesi\bilimselHesapMakinesi\obj\Debug\net6.0-windows\bilimselHesapMakinesi.csproj.AssemblyReference.cache
+C:\Users\oktay\Desktop\bilimselHesapMakinesi\bilimselHesapMakinesi\obj\Debug\net6.0-windows\bilimselHesapMakinesi.Form1.resources
+C:\Users\oktay\Desktop\bilimselHesapMakinesi\bilimselHesapMakinesi\obj\Debug\net6.0-windows\bilimselHesapMakinesi.csproj.GenerateResource.cache
+C:\Users\oktay\Desktop\bilimselHesapMakinesi\bilimselHesapMakinesi\obj\Debug\net6.0-windows\bilimselHesapMakinesi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oktay\Desktop\bilimselHesapMakinesi\bilimselHesapMakinesi\obj\Debug\net6.0-windows\bilimselHesapMakinesi.AssemblyInfoInputs.cache
+C:\Users\oktay\Desktop\bilimselHesapMakinesi\bilimselHesapMakinesi\obj\Debug\net6.0-windows\bilimselHesapMakinesi.AssemblyInfo.cs
+C:\Users\oktay\Desktop\bilimselHesapMakinesi\bilimselHesapMakinesi\obj\Debug\net6.0-windows\bilimselHesapMakinesi.csproj.CoreCompileInputs.cache
+C:\Users\oktay\Desktop\bilimselHesapMakinesi\bilimselHesapMakinesi\obj\Debug\net6.0-windows\bilimselHesapMakinesi.dll
+C:\Users\oktay\Desktop\bilimselHesapMakinesi\bilimselHesapMakinesi\obj\Debug\net6.0-windows\refint\bilimselHesapMakinesi.dll
+C:\Users\oktay\Desktop\bilimselHesapMakinesi\bilimselHesapMakinesi\obj\Debug\net6.0-windows\bilimselHesapMakinesi.pdb
+C:\Users\oktay\Desktop\bilimselHesapMakinesi\bilimselHesapMakinesi\obj\Debug\net6.0-windows\bilimselHesapMakinesi.genruntimeconfig.cache
+C:\Users\oktay\Desktop\bilimselHesapMakinesi\bilimselHesapMakinesi\obj\Debug\net6.0-windows\ref\bilimselHesapMakinesi.dll
